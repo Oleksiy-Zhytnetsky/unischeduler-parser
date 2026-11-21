@@ -1,4 +1,4 @@
-# UNIScheduler importer
+# UNIScheduler parser & schedule importer
 
 A first-sheet-only .xlsx parser, date resolver, console/JSON preview and authenticated,
 transactional import client for the **UNIScheduler backend**.
