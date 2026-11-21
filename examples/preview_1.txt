@@ -1,0 +1,94 @@
+Source: tests/fixtures/1.xlsx / sheet: Аркуш1
+Scope: інформатики | Прикладна математика | year 1 | AUTUMN 2026-2027
+Schedule rows: 81 | calendar instances: 619 | errors: 0
+Diagnostics: {'teacher_unspecified': 16, 'group_unspecified': 5, 'corroborated_year_correction': 2, 'location_unspecified': 7}
+row= 13  Понеділок  10:00-11:20 Англійська мова | teacher=ст. викл. С.О. Гісем | group=А51 | weeks=2-14 | room=3-407 | instances=13 | extras={}
+row= 14  Понеділок  10:00-11:20 Англійська мова | teacher=ст.викл. І.В. Денисенко | group=А52 | weeks=2-14 | room=7-204 | instances=13 | extras={}
+row= 15  Понеділок  10:00-11:20 Англійська мова | teacher=ст. викл.І.Д. Піроженко | group=А53 | weeks=2-14 | room=3-406 | instances=13 | extras={}
+row= 16  Понеділок  10:00-11:20 Англійська мова | teacher=доц. О.М. Демидович | group=А54 | weeks=2-14 | room=4-310 | instances=13 | extras={}
+row= 17  Понеділок  10:00-11:20 Англійська мова | teacher=ст. викл.М.В.Максимчук | group=А55 | weeks=2-14 | room=6-3 | instances=13 | extras={}
+row= 18  Понеділок  10:00-11:20 Англійська мова | teacher=ст. викл.А.В. Курашина | group=А56 | weeks=2-14 | room=4-309 | instances=13 | extras={}
+row= 19  Понеділок  10:00-11:20 Англійська мова | teacher=доц. О.О. Гурська | group=А57 | weeks=2-14 | room=3-401Б | instances=13 | extras={}
+row= 20  Понеділок  10:00-11:20 Англійська мова | teacher=ст. викл.М.В.Федорів | group=А58 | weeks=2-14 | room=3-302 | instances=13 | extras={}
+row= 21  Понеділок  10:00-11:20 Англійська мова | teacher=ас.Д.С. Сорочинський | group=А59 | weeks=2-14 | room=9-32 | instances=13 | extras={}
+row= 22  Понеділок  10:00-11:20 Англійська мова | teacher=ст. викл. К.Ю. Перепелиця | group=А60 | weeks=2-14 | room=3-412в | instances=13 | extras={}
+row= 23  Понеділок  10:00-11:20 Англійська мова | teacher=доц. А.Б.Пожар | group=А61 | weeks=2-14 | room=1-112 | instances=13 | extras={}
+row= 24  Понеділок  10:00-11:20 Англійська мова | teacher=ст. викл. В.Л.Романюк | group=А62 | weeks=2-14 | room=1-309 | instances=13 | extras={}
+row= 25  Понеділок  10:00-11:20 Англійська мова | teacher=ст.викл..Г.С..Кобиляцька | group=А63 | weeks=2-14 | room=1-208 | instances=13 | extras={}
+row= 26  Понеділок  10:00-11:20 Англійська мова | teacher=ст.викл.І.А.. Горобець | group=А64 | weeks=2-14 | room=1-331 | instances=13 | extras={}
+row= 27  Понеділок  10:00-11:20 Англійська мова | teacher=ас. В.В.Березинец | group=А65 | weeks=2-14 | room=1-206/ укр003 | instances=13 | extras={}
+row= 28  Понеділок  11:40-13:00 Математичний аналіз | teacher=доц. Ю.В. Митник | group=лекція | weeks=8-13 | room=1-225 | instances=6 | extras={}
+row= 29  Понеділок  13:30-14:50 Математичний аналіз | teacher=доц. О.І.Кашпіровський | group=1 | weeks=2-14 | room=1-306 | instances=13 | extras={}
+row= 30  Понеділок  13:30-14:50 Математичний аналіз | teacher=доц. Ю.В. Митник | group=2 | weeks=2-14 | room=1-112 | instances=13 | extras={}
+row= 32  Понеділок  16:30-17:50 "Менеджмент та персональна ефективність " | teacher=∅ | group=лекція | weeks=3-5 | room=1-225 | instances=3 | extras={}
+row= 33  Понеділок  16:30-17:50 Організація освітнього процесу | teacher=∅ | group=∅ | weeks=7.09 | room=1-217 | instances=1 | extras={}
+row= 34  Вівторок   8:30-9:50   Українська мова (за професійним спрямуванням) | teacher=доц.І.Є.Ренчка | group=лекція | weeks=2-6 | room=КМЦ | instances=5 | extras={}
+row= 36  Вівторок   11:40-13:00 Вступна леція Президента НаУКМА | teacher=∅ | group=лекція | weeks=01.09.25 | room=КМЦ | instances=1 | extras={}
+row= 37  Вівторок   11:40-13:00 Дискретна математика | teacher=доц.C/О. Козеренко | group=лекція | weeks=12,13 | room=1-223 | instances=2 | extras={}
+row= 38  Вівторок   13:30-14:50 Дискретна математика | teacher=доц.C/О. Козеренко | group=лекція | weeks=8-14 | room=1-225 | instances=7 | extras={}
+row= 39  Вівторок   13:30-14:50 Відтепер спудеї/ки: що таке університет? | teacher=∅ | group=лекція | weeks=01.09.25 | room=КМЦ | instances=1 | extras={}
+row= 40  Вівторок   15:00-16:20 Українська мова (за професійним спрямуванням) | teacher=доц.Л.В.Сегін | group=9 | weeks=6-13 | room=1-307 | instances=8 | extras={'G': '№1'}
+row= 41  Вівторок   16:30-17:50 Українська мова (за професійним спрямуванням) | teacher=доц.Л.В.Сегін | group=10 | weeks=6-13 | room=1-307 | instances=8 | extras={'G': '№2'}
+row= 44  Середа     10:00-11:20 Алгебра та геометрія | teacher=ст. викл..М.В.Щеглов | group=лекція | weeks=1-14 | room=1-313 | instances=14 | extras={}
+row= 45  Середа     11:40-13:00 Алгебра та геометрія | teacher=ст. викл. М.В.Щеглов | group=1 | weeks=1-2 | room=1-208 | instances=2 | extras={}
+row= 46  Середа     11:40-13:00 Алгебра та геометрія | teacher=ст. викл. М.В.Щеглов | group=1 | weeks=1-14 | room=1-108 | instances=14 | extras={}
+row= 47  Середа     13:30-14:50 Алгебра та геометрія | teacher=ст. викл. М.В.Щеглов | group=2 | weeks=1-2 | room=1-208 | instances=2 | extras={}
+row= 48  Середа     13:30-14:50 Алгебра та геометрія | teacher=ст. викл. М.В.Щеглов | group=2 | weeks=1-14 | room=1-108 | instances=14 | extras={}
+row= 51  Середа     16:30-17:50 НаУКМА крізь століття: від Сагайдачного до нас | teacher=∅ | group=∅ | weeks=9.09 | room=1-217 | instances=1 | extras={}
+row= 53  Четвер     10:00-11:20 Зустріч з адміністрацією факультету | teacher=∅ | group=∅ | weeks=03.09.26 | room=1-310 | instances=1 | extras={}
+row= 55  Четвер     13:30-14:50 Дискретна математика | teacher=доц.C/О. Козеренко | group=лекція | weeks=3-7 | room=1-313 | instances=5 | extras={}
+row= 56  Четвер     15:00-16:20 Основи національного супротиву | teacher=∅ | group=лекція | weeks=5-13 | room=КМЦ /онлайн | instances=9 | extras={}
+row= 57  Четвер     16:30-17:50 Основи національного супротиву | teacher=∅ | group=лекція | weeks=5-13 | room=КМЦ /онлайн | instances=9 | extras={}
+row= 58  Четвер     16:30-17:50 Не навчанням єдиним: про культурне життя та сервіси | teacher=∅ | group=∅ | weeks=3.09 | room=1-217 | instances=1 | extras={}
+row= 60  П`ятниця   8:30-9:50   Математичний аналіз | teacher=доц. О.О.Покутний | group=лекція | weeks=5-7 | room=1-313 | instances=3 | extras={}
+row= 61  П`ятниця   10:00-11:20 Англійська мова | teacher=ст. викл. С.О. Гісем | group=А51 | weeks=2-13 | room=3-407 | instances=12 | extras={}
+row= 62  П`ятниця   10:00-11:20 Англійська мова | teacher=ст.викл. І.В. Денисенко | group=А52 | weeks=2-13 | room=7-204 | instances=12 | extras={}
+row= 63  П`ятниця   10:00-11:20 Англійська мова | teacher=ст. викл.І.Д. Піроженко | group=А53 | weeks=2-13 | room=3-406 | instances=12 | extras={}
+row= 64  П`ятниця   10:00-11:20 Англійська мова | teacher=доц. О.М. Демидович | group=А54 | weeks=2-13 | room=4-310 | instances=12 | extras={}
+row= 65  П`ятниця   10:00-11:20 Англійська мова | teacher=ст. викл.М.В.Максимчук | group=А55 | weeks=2-13 | room=6-3 | instances=12 | extras={}
+row= 66  П`ятниця   10:00-11:20 Англійська мова | teacher=ст. викл.А.В. Курашина | group=А56 | weeks=2-13 | room=4-309 | instances=12 | extras={}
+row= 67  П`ятниця   10:00-11:20 Англійська мова | teacher=доц. О.О. Гурська | group=А57 | weeks=2-13 | room=3-401б | instances=12 | extras={}
+row= 68  П`ятниця   10:00-11:20 Англійська мова | teacher=ст. викл.М.В.Федорів | group=А58 | weeks=2-13 | room=5-109 | instances=12 | extras={}
+row= 69  П`ятниця   10:00-11:20 Англійська мова | teacher=ас.Д.С. Сорочинський | group=А59 | weeks=2-13 | room=9-32 | instances=12 | extras={}
+row= 70  П`ятниця   10:00-11:20 Англійська мова | teacher=ст. викл. К.Ю. Перепелиця | group=А60 | weeks=2-13 | room=3-412в | instances=12 | extras={}
+row= 71  П`ятниця   10:00-11:20 Англійська мова | teacher=доц. А.Б.Пожар | group=А61 | weeks=2-13 | room=3-205 | instances=12 | extras={}
+row= 72  П`ятниця   10:00-11:20 Англійська мова | teacher=ст. викл. В.Л.Романюк | group=А62 | weeks=2-13 | room=1-309 | instances=12 | extras={}
+row= 73  П`ятниця   10:00-11:20 Англійська мова | teacher=ст.викл..Г.С..Кобиляцька | group=А63 | weeks=2-13 | room=1-208 | instances=12 | extras={}
+row= 74  П`ятниця   10:00-11:20 Англійська мова | teacher=ст.викл.І.А.. Горобець | group=А64 | weeks=2-13 | room=1-307 | instances=12 | extras={}
+row= 75  П`ятниця   10:00-11:20 Англійська мова | teacher=ас. В.В.Березинец | group=А65 | weeks=2-13 | room=1-206/1-306 | instances=12 | extras={}
+row= 76  П`ятниця   11:40-13:00 Дискретна математика | teacher=ст.викл..В.О.Гапоненко | group=1 | weeks=3-14 | room=1-307 | instances=12 | extras={}
+row= 77  П`ятниця   13:30-14:50 Дискретна математика | teacher=ст.викл..В.О.Гапоненко | group=2 | weeks=3-14 | room=1-112 | instances=12 | extras={}
+row= 78  П`ятниця   15:00-16:20 Дискретна математика | teacher=ст.викл..В.О.Гапоненко | group=1 | weeks=6,8,10,12 | room=1-313 | instances=4 | extras={}
+row= 79  П`ятниця   15:00-16:20 Дискретна математика | teacher=ст.викл..В.О.Гапоненко | group=2 | weeks=7,9,11,13 | room=1-313 | instances=4 | extras={}
+row= 80  П`ятниця   16:30-17:50 Кредити, вибіркові, САЗ — що це та як з цим жити? | teacher=∅ | group=∅ | weeks=11.09.26 | room=1-217 | instances=1 | extras={}
+row= 82  Субота     8:30-9:50   Основи національного супротиву | teacher=∅ | group=П | weeks=5-13 | room=КМЦ 2 пов. | instances=9 | extras={}
+row= 83  Субота     10:00-11:20 Англійська мова | teacher=ст. викл. С.О. Гісем | group=А51 | weeks=3 | room=3-407 | instances=1 | extras={}
+row= 84  Субота     10:00-11:20 Англійська мова | teacher=ст.викл. І.В. Денисенко | group=А52 | weeks=3 | room=7-204 | instances=1 | extras={}
+row= 85  Субота     10:00-11:20 Англійська мова | teacher=ст. викл.І.Д. Піроженко | group=А53 | weeks=3 | room=3-406 | instances=1 | extras={}
+row= 86  Субота     10:00-11:20 Англійська мова | teacher=доц. О.М. Демидович | group=А54 | weeks=3 | room=4-310 | instances=1 | extras={}
+row= 87  Субота     10:00-11:20 Англійська мова | teacher=ст. викл.М.В.Максимчук | group=А55 | weeks=3 | room=6-3 | instances=1 | extras={}
+row= 88  Субота     10:00-11:20 Англійська мова | teacher=ст. викл.А.В. Курашина | group=А56 | weeks=3 | room=4-309 | instances=1 | extras={}
+row= 89  Субота     10:00-11:20 Англійська мова | teacher=доц. О.О. Гурська | group=А57 | weeks=3 | room=∅ | instances=1 | extras={}
+row= 90  Субота     10:00-11:20 Англійська мова | teacher=ст. викл.М.В.Федорів | group=А58 | weeks=3 | room=∅ | instances=1 | extras={}
+row= 91  Субота     10:00-11:20 Англійська мова | teacher=ас.Д.С. Сорочинський | group=А59 | weeks=3 | room=9-32 | instances=1 | extras={}
+row= 92  Субота     10:00-11:20 Англійська мова | teacher=ст. викл. К.Ю. Перепелиця | group=А60 | weeks=3 | room=3-412в | instances=1 | extras={}
+row= 93  Субота     10:00-11:20 Англійська мова | teacher=доц. А.Б.Пожар | group=А61 | weeks=3 | room=∅ | instances=1 | extras={}
+row= 94  Субота     10:00-11:20 Англійська мова | teacher=ст. викл. В.Л.Романюк | group=А62 | weeks=3 | room=∅ | instances=1 | extras={}
+row= 95  Субота     10:00-11:20 Англійська мова | teacher=ст.викл..Г.С..Кобиляцька | group=А63 | weeks=3 | room=∅ | instances=1 | extras={}
+row= 96  Субота     10:00-11:20 Англійська мова | teacher=ст.викл.І.А.. Горобець | group=А64 | weeks=3 | room=∅ | instances=1 | extras={}
+row= 97  Субота     10:00-11:20 Англійська мова | teacher=ас. В.В.Березинец | group=А65 | weeks=3 | room=∅ | instances=1 | extras={}
+row= 98  Субота     10:00-11:20 Основи національного супротиву | teacher=∅ | group=П | weeks=5-13 | room=КМЦ 2 пов. | instances=9 | extras={}
+row= 99  Субота     11:40-13:00 Основи національного супротиву | teacher=∅ | group=П | weeks=5-14 | room=КМЦ 2 пов. | instances=10 | extras={}
+row=100  Субота     11:40-13:00 Математичний аналіз | teacher=доц. О.О.Покутний | group=лекція | weeks=1-4 | room=1-313 | instances=4 | extras={}
+row=101  Субота     13:30-14:50 "Менеджмент та персональна ефективність " | teacher=∅ | group=лекція | weeks=3-5 | room=1-313 | instances=3 | extras={}
+row=102  Субота     13:30-14:50 Основи національного супротиву | teacher=∅ | group=П | weeks=5-13 | room=КМЦ 2 пов. | instances=9 | extras={}
+row=103  Субота     15:00-16:20 Основи національного супротиву | teacher=∅ | group=П | weeks=5-13 | room=КМЦ 2 пов. | instances=9 | extras={}
+[warning] row=36 corroborated_year_correction: 01.09.25 interpreted as 2026-09-01 (year disagrees with workbook); source preserved
+[warning] row=39 corroborated_year_correction: 01.09.25 interpreted as 2026-09-01 (year disagrees with workbook); source preserved
+[warning] row=89 location_unspecified: No location provided
+[warning] row=90 location_unspecified: No location provided
+[warning] row=93 location_unspecified: No location provided
+[warning] row=94 location_unspecified: No location provided
+[warning] row=95 location_unspecified: No location provided
+[warning] row=96 location_unspecified: No location provided
+[warning] row=97 location_unspecified: No location provided

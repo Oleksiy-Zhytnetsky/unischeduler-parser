@@ -1,0 +1,2824 @@
+{
+  "source": "tests/fixtures/4.xlsx",
+  "metadata": {
+    "faculty": "інформатики",
+    "speciality": "Інженерія програмного забезпечення",
+    "study_year": 4,
+    "academic_year": "2026-2027",
+    "semester": "AUTUMN",
+    "sheet_name": "Аркуш1",
+    "original_headers": {
+      "day": "День ",
+      "time": "Час",
+      "description": "Дисципліна, викладач",
+      "group": "Група",
+      "weeks": "Тижні",
+      "location": "Аудиторія"
+    },
+    "original_metadata": {
+      "1": "ЗАТВЕРДЖУЮ",
+      "2": "Декан факультету_________А.М. Глибовець",
+      "4": "\" 22 \" серпня 2026р.",
+      "6": "Факультет інформатики",
+      "7": "Спеціальність \"Інженерія програмного забезпечення\", 4 р.н.",
+      "8": "Розклад занять на осінній семестр 2026-2027 н.р."
+    }
+  },
+  "entries": [
+    {
+      "row": 13,
+      "day": "Понеділок",
+      "time": "10:00-11:20",
+      "description": "Проектування програмних систем, доц. А.М. Нагірна",
+      "group": "2",
+      "weeks": "2 - 14",
+      "location": "1-108",
+      "extra": {},
+      "course_name": "Проектування програмних систем",
+      "teacher": "доц. А.М. Нагірна",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-07T10:00:00",
+          "ends_at": "2026-09-07T11:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-09-14T10:00:00",
+          "ends_at": "2026-09-14T11:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-09-21T10:00:00",
+          "ends_at": "2026-09-21T11:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-09-28T10:00:00",
+          "ends_at": "2026-09-28T11:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-10-05T10:00:00",
+          "ends_at": "2026-10-05T11:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-10-12T10:00:00",
+          "ends_at": "2026-10-12T11:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-10-19T10:00:00",
+          "ends_at": "2026-10-19T11:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-10-26T10:00:00",
+          "ends_at": "2026-10-26T11:20:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-11-02T10:00:00",
+          "ends_at": "2026-11-02T11:20:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-11-09T10:00:00",
+          "ends_at": "2026-11-09T11:20:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-11-16T10:00:00",
+          "ends_at": "2026-11-16T11:20:00",
+          "week": 12,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-11-23T10:00:00",
+          "ends_at": "2026-11-23T11:20:00",
+          "week": 13,
+          "origin": "academic_week",
+          "source_row": 13
+        },
+        {
+          "starts_at": "2026-11-30T10:00:00",
+          "ends_at": "2026-11-30T11:20:00",
+          "week": 14,
+          "origin": "academic_week",
+          "source_row": 13
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Проектування програмних систем, доц. А.М. Нагірна",
+        "D": "2",
+        "E": "2 - 14",
+        "F": "1-108"
+      }
+    },
+    {
+      "row": 15,
+      "day": "Понеділок",
+      "time": "11:40-13:00",
+      "description": "Проектування програмних систем, доц. А.М. Нагірна",
+      "group": "1",
+      "weeks": "2 - 14",
+      "location": "1-108",
+      "extra": {},
+      "course_name": "Проектування програмних систем",
+      "teacher": "доц. А.М. Нагірна",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-07T11:40:00",
+          "ends_at": "2026-09-07T13:00:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-09-14T11:40:00",
+          "ends_at": "2026-09-14T13:00:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-09-21T11:40:00",
+          "ends_at": "2026-09-21T13:00:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-09-28T11:40:00",
+          "ends_at": "2026-09-28T13:00:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-10-05T11:40:00",
+          "ends_at": "2026-10-05T13:00:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-10-12T11:40:00",
+          "ends_at": "2026-10-12T13:00:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-10-19T11:40:00",
+          "ends_at": "2026-10-19T13:00:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-10-26T11:40:00",
+          "ends_at": "2026-10-26T13:00:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-11-02T11:40:00",
+          "ends_at": "2026-11-02T13:00:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-11-09T11:40:00",
+          "ends_at": "2026-11-09T13:00:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-11-16T11:40:00",
+          "ends_at": "2026-11-16T13:00:00",
+          "week": 12,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-11-23T11:40:00",
+          "ends_at": "2026-11-23T13:00:00",
+          "week": 13,
+          "origin": "academic_week",
+          "source_row": 15
+        },
+        {
+          "starts_at": "2026-11-30T11:40:00",
+          "ends_at": "2026-11-30T13:00:00",
+          "week": 14,
+          "origin": "academic_week",
+          "source_row": 15
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Проектування програмних систем, доц. А.М. Нагірна",
+        "D": "1",
+        "E": "2 - 14",
+        "F": "1-108"
+      }
+    },
+    {
+      "row": 17,
+      "day": "Понеділок",
+      "time": "13:30-14:50",
+      "description": "Проектування програмних систем, доц. А.М. Нагірна",
+      "group": "3",
+      "weeks": "2 - 14",
+      "location": "1-001",
+      "extra": {},
+      "course_name": "Проектування програмних систем",
+      "teacher": "доц. А.М. Нагірна",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-07T13:30:00",
+          "ends_at": "2026-09-07T14:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-09-14T13:30:00",
+          "ends_at": "2026-09-14T14:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-09-21T13:30:00",
+          "ends_at": "2026-09-21T14:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-09-28T13:30:00",
+          "ends_at": "2026-09-28T14:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-10-05T13:30:00",
+          "ends_at": "2026-10-05T14:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-10-12T13:30:00",
+          "ends_at": "2026-10-12T14:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-10-19T13:30:00",
+          "ends_at": "2026-10-19T14:50:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-10-26T13:30:00",
+          "ends_at": "2026-10-26T14:50:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-11-02T13:30:00",
+          "ends_at": "2026-11-02T14:50:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-11-09T13:30:00",
+          "ends_at": "2026-11-09T14:50:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-11-16T13:30:00",
+          "ends_at": "2026-11-16T14:50:00",
+          "week": 12,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-11-23T13:30:00",
+          "ends_at": "2026-11-23T14:50:00",
+          "week": 13,
+          "origin": "academic_week",
+          "source_row": 17
+        },
+        {
+          "starts_at": "2026-11-30T13:30:00",
+          "ends_at": "2026-11-30T14:50:00",
+          "week": 14,
+          "origin": "academic_week",
+          "source_row": 17
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Проектування програмних систем, доц. А.М. Нагірна",
+        "D": "3",
+        "E": "2 - 14",
+        "F": "1-001"
+      }
+    },
+    {
+      "row": 18,
+      "day": "Понеділок",
+      "time": "15:00-16:20",
+      "description": "Вступ до мікросервісної архітектури з використанням Spring Boot сn.викл. М.В.Андрощук",
+      "group": "лекція",
+      "weeks": "2 - 11",
+      "location": "1-223",
+      "extra": {},
+      "course_name": "Вступ до мікросервісної архітектури з використанням Spring Boot",
+      "teacher": "сn.викл. М.В.Андрощук",
+      "lecture": true,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-07T15:00:00",
+          "ends_at": "2026-09-07T16:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 18
+        },
+        {
+          "starts_at": "2026-09-14T15:00:00",
+          "ends_at": "2026-09-14T16:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 18
+        },
+        {
+          "starts_at": "2026-09-21T15:00:00",
+          "ends_at": "2026-09-21T16:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 18
+        },
+        {
+          "starts_at": "2026-09-28T15:00:00",
+          "ends_at": "2026-09-28T16:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 18
+        },
+        {
+          "starts_at": "2026-10-05T15:00:00",
+          "ends_at": "2026-10-05T16:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 18
+        },
+        {
+          "starts_at": "2026-10-12T15:00:00",
+          "ends_at": "2026-10-12T16:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 18
+        },
+        {
+          "starts_at": "2026-10-19T15:00:00",
+          "ends_at": "2026-10-19T16:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 18
+        },
+        {
+          "starts_at": "2026-10-26T15:00:00",
+          "ends_at": "2026-10-26T16:20:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 18
+        },
+        {
+          "starts_at": "2026-11-02T15:00:00",
+          "ends_at": "2026-11-02T16:20:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 18
+        },
+        {
+          "starts_at": "2026-11-09T15:00:00",
+          "ends_at": "2026-11-09T16:20:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 18
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "15:00-16:20",
+        "C": "Вступ до мікросервісної архітектури з використанням Spring Boot сn.викл. М.В.Андрощук",
+        "D": "лекція",
+        "E": "2 - 11",
+        "F": "1-223"
+      }
+    },
+    {
+      "row": 19,
+      "day": "Понеділок",
+      "time": "15:00-16:20",
+      "description": "Проектування програмних систем, доц. А.М. Нагірна",
+      "group": "4",
+      "weeks": "2 - 14",
+      "location": "1-001",
+      "extra": {},
+      "course_name": "Проектування програмних систем",
+      "teacher": "доц. А.М. Нагірна",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-07T15:00:00",
+          "ends_at": "2026-09-07T16:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-09-14T15:00:00",
+          "ends_at": "2026-09-14T16:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-09-21T15:00:00",
+          "ends_at": "2026-09-21T16:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-09-28T15:00:00",
+          "ends_at": "2026-09-28T16:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-10-05T15:00:00",
+          "ends_at": "2026-10-05T16:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-10-12T15:00:00",
+          "ends_at": "2026-10-12T16:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-10-19T15:00:00",
+          "ends_at": "2026-10-19T16:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-10-26T15:00:00",
+          "ends_at": "2026-10-26T16:20:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-11-02T15:00:00",
+          "ends_at": "2026-11-02T16:20:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-11-09T15:00:00",
+          "ends_at": "2026-11-09T16:20:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-11-16T15:00:00",
+          "ends_at": "2026-11-16T16:20:00",
+          "week": 12,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-11-23T15:00:00",
+          "ends_at": "2026-11-23T16:20:00",
+          "week": 13,
+          "origin": "academic_week",
+          "source_row": 19
+        },
+        {
+          "starts_at": "2026-11-30T15:00:00",
+          "ends_at": "2026-11-30T16:20:00",
+          "week": 14,
+          "origin": "academic_week",
+          "source_row": 19
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Проектування програмних систем, доц. А.М. Нагірна",
+        "D": "4",
+        "E": "2 - 14",
+        "F": "1-001"
+      }
+    },
+    {
+      "row": 20,
+      "day": "Понеділок",
+      "time": "16:30-17:50",
+      "description": "Проектування програмних систем, доц. А.М. Нагірна",
+      "group": "5",
+      "weeks": "2 - 14",
+      "location": "1-001",
+      "extra": {},
+      "course_name": "Проектування програмних систем",
+      "teacher": "доц. А.М. Нагірна",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-07T16:30:00",
+          "ends_at": "2026-09-07T17:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-09-14T16:30:00",
+          "ends_at": "2026-09-14T17:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-09-21T16:30:00",
+          "ends_at": "2026-09-21T17:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-09-28T16:30:00",
+          "ends_at": "2026-09-28T17:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-10-05T16:30:00",
+          "ends_at": "2026-10-05T17:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-10-12T16:30:00",
+          "ends_at": "2026-10-12T17:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-10-19T16:30:00",
+          "ends_at": "2026-10-19T17:50:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-10-26T16:30:00",
+          "ends_at": "2026-10-26T17:50:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-11-02T16:30:00",
+          "ends_at": "2026-11-02T17:50:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-11-09T16:30:00",
+          "ends_at": "2026-11-09T17:50:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-11-16T16:30:00",
+          "ends_at": "2026-11-16T17:50:00",
+          "week": 12,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-11-23T16:30:00",
+          "ends_at": "2026-11-23T17:50:00",
+          "week": 13,
+          "origin": "academic_week",
+          "source_row": 20
+        },
+        {
+          "starts_at": "2026-11-30T16:30:00",
+          "ends_at": "2026-11-30T17:50:00",
+          "week": 14,
+          "origin": "academic_week",
+          "source_row": 20
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "16:30-17:50",
+        "C": "Проектування програмних систем, доц. А.М. Нагірна",
+        "D": "5",
+        "E": "2 - 14",
+        "F": "1-001"
+      }
+    },
+    {
+      "row": 21,
+      "day": "Понеділок",
+      "time": "16:30-17:50",
+      "description": "Вступ до мікросервісної архітектури з використанням Spring Boot сn.викл. М.В.Андрощук",
+      "group": "1",
+      "weeks": "2 - 11",
+      "location": "1-223",
+      "extra": {},
+      "course_name": "Вступ до мікросервісної архітектури з використанням Spring Boot",
+      "teacher": "сn.викл. М.В.Андрощук",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-07T16:30:00",
+          "ends_at": "2026-09-07T17:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 21
+        },
+        {
+          "starts_at": "2026-09-14T16:30:00",
+          "ends_at": "2026-09-14T17:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 21
+        },
+        {
+          "starts_at": "2026-09-21T16:30:00",
+          "ends_at": "2026-09-21T17:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 21
+        },
+        {
+          "starts_at": "2026-09-28T16:30:00",
+          "ends_at": "2026-09-28T17:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 21
+        },
+        {
+          "starts_at": "2026-10-05T16:30:00",
+          "ends_at": "2026-10-05T17:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 21
+        },
+        {
+          "starts_at": "2026-10-12T16:30:00",
+          "ends_at": "2026-10-12T17:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 21
+        },
+        {
+          "starts_at": "2026-10-19T16:30:00",
+          "ends_at": "2026-10-19T17:50:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 21
+        },
+        {
+          "starts_at": "2026-10-26T16:30:00",
+          "ends_at": "2026-10-26T17:50:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 21
+        },
+        {
+          "starts_at": "2026-11-02T16:30:00",
+          "ends_at": "2026-11-02T17:50:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 21
+        },
+        {
+          "starts_at": "2026-11-09T16:30:00",
+          "ends_at": "2026-11-09T17:50:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 21
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Вступ до мікросервісної архітектури з використанням Spring Boot сn.викл. М.В.Андрощук",
+        "D": "1",
+        "E": "2 - 11",
+        "F": "1-223"
+      }
+    },
+    {
+      "row": 22,
+      "day": "Понеділок",
+      "time": "18:00-19:20",
+      "description": "Вступ до мікросервісної архітектури з використанням Spring Boot сn.викл. М.В.Андрощук",
+      "group": "2",
+      "weeks": "2 - 11",
+      "location": "1-223",
+      "extra": {},
+      "course_name": "Вступ до мікросервісної архітектури з використанням Spring Boot",
+      "teacher": "сn.викл. М.В.Андрощук",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-07T18:00:00",
+          "ends_at": "2026-09-07T19:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 22
+        },
+        {
+          "starts_at": "2026-09-14T18:00:00",
+          "ends_at": "2026-09-14T19:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 22
+        },
+        {
+          "starts_at": "2026-09-21T18:00:00",
+          "ends_at": "2026-09-21T19:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 22
+        },
+        {
+          "starts_at": "2026-09-28T18:00:00",
+          "ends_at": "2026-09-28T19:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 22
+        },
+        {
+          "starts_at": "2026-10-05T18:00:00",
+          "ends_at": "2026-10-05T19:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 22
+        },
+        {
+          "starts_at": "2026-10-12T18:00:00",
+          "ends_at": "2026-10-12T19:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 22
+        },
+        {
+          "starts_at": "2026-10-19T18:00:00",
+          "ends_at": "2026-10-19T19:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 22
+        },
+        {
+          "starts_at": "2026-10-26T18:00:00",
+          "ends_at": "2026-10-26T19:20:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 22
+        },
+        {
+          "starts_at": "2026-11-02T18:00:00",
+          "ends_at": "2026-11-02T19:20:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 22
+        },
+        {
+          "starts_at": "2026-11-09T18:00:00",
+          "ends_at": "2026-11-09T19:20:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 22
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "18:00-19:20",
+        "C": "Вступ до мікросервісної архітектури з використанням Spring Boot сn.викл. М.В.Андрощук",
+        "D": "2",
+        "E": "2 - 11",
+        "F": "1-223"
+      }
+    },
+    {
+      "row": 23,
+      "day": "Вівторок",
+      "time": "8:30-9:50",
+      "description": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+      "group": "лекція",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Багатозадачне та паралельне програмування",
+      "teacher": "ст.викл. А.В. Гречко",
+      "lecture": true,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-08T08:30:00",
+          "ends_at": "2026-09-08T09:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 23
+        },
+        {
+          "starts_at": "2026-09-15T08:30:00",
+          "ends_at": "2026-09-15T09:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 23
+        },
+        {
+          "starts_at": "2026-09-22T08:30:00",
+          "ends_at": "2026-09-22T09:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 23
+        },
+        {
+          "starts_at": "2026-09-29T08:30:00",
+          "ends_at": "2026-09-29T09:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 23
+        },
+        {
+          "starts_at": "2026-10-06T08:30:00",
+          "ends_at": "2026-10-06T09:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 23
+        },
+        {
+          "starts_at": "2026-10-13T08:30:00",
+          "ends_at": "2026-10-13T09:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 23
+        },
+        {
+          "starts_at": "2026-10-20T08:30:00",
+          "ends_at": "2026-10-20T09:50:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 23
+        },
+        {
+          "starts_at": "2026-10-27T08:30:00",
+          "ends_at": "2026-10-27T09:50:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 23
+        },
+        {
+          "starts_at": "2026-11-03T08:30:00",
+          "ends_at": "2026-11-03T09:50:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 23
+        },
+        {
+          "starts_at": "2026-11-10T08:30:00",
+          "ends_at": "2026-11-10T09:50:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 23
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "A": "Вівторок",
+        "B": "8:30-9:50",
+        "C": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+        "D": "лекція",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 24,
+      "day": "Вівторок",
+      "time": "10:00-11:20",
+      "description": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+      "group": "1",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Багатозадачне та паралельне програмування",
+      "teacher": "ст.викл. А.В. Гречко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-08T10:00:00",
+          "ends_at": "2026-09-08T11:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 24
+        },
+        {
+          "starts_at": "2026-09-15T10:00:00",
+          "ends_at": "2026-09-15T11:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 24
+        },
+        {
+          "starts_at": "2026-09-22T10:00:00",
+          "ends_at": "2026-09-22T11:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 24
+        },
+        {
+          "starts_at": "2026-09-29T10:00:00",
+          "ends_at": "2026-09-29T11:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 24
+        },
+        {
+          "starts_at": "2026-10-06T10:00:00",
+          "ends_at": "2026-10-06T11:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 24
+        },
+        {
+          "starts_at": "2026-10-13T10:00:00",
+          "ends_at": "2026-10-13T11:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 24
+        },
+        {
+          "starts_at": "2026-10-20T10:00:00",
+          "ends_at": "2026-10-20T11:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 24
+        },
+        {
+          "starts_at": "2026-10-27T10:00:00",
+          "ends_at": "2026-10-27T11:20:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 24
+        },
+        {
+          "starts_at": "2026-11-03T10:00:00",
+          "ends_at": "2026-11-03T11:20:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 24
+        },
+        {
+          "starts_at": "2026-11-10T10:00:00",
+          "ends_at": "2026-11-10T11:20:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 24
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "10:00-11:20",
+        "C": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+        "D": "1",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 25,
+      "day": "Вівторок",
+      "time": "11:40-13:00",
+      "description": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+      "group": "2",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Багатозадачне та паралельне програмування",
+      "teacher": "ст.викл. А.В. Гречко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-08T11:40:00",
+          "ends_at": "2026-09-08T13:00:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 25
+        },
+        {
+          "starts_at": "2026-09-15T11:40:00",
+          "ends_at": "2026-09-15T13:00:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 25
+        },
+        {
+          "starts_at": "2026-09-22T11:40:00",
+          "ends_at": "2026-09-22T13:00:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 25
+        },
+        {
+          "starts_at": "2026-09-29T11:40:00",
+          "ends_at": "2026-09-29T13:00:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 25
+        },
+        {
+          "starts_at": "2026-10-06T11:40:00",
+          "ends_at": "2026-10-06T13:00:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 25
+        },
+        {
+          "starts_at": "2026-10-13T11:40:00",
+          "ends_at": "2026-10-13T13:00:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 25
+        },
+        {
+          "starts_at": "2026-10-20T11:40:00",
+          "ends_at": "2026-10-20T13:00:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 25
+        },
+        {
+          "starts_at": "2026-10-27T11:40:00",
+          "ends_at": "2026-10-27T13:00:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 25
+        },
+        {
+          "starts_at": "2026-11-03T11:40:00",
+          "ends_at": "2026-11-03T13:00:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 25
+        },
+        {
+          "starts_at": "2026-11-10T11:40:00",
+          "ends_at": "2026-11-10T13:00:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 25
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "11:40-13:00",
+        "C": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+        "D": "2",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 26,
+      "day": "Вівторок",
+      "time": "13:30-14:50",
+      "description": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+      "group": "3",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Багатозадачне та паралельне програмування",
+      "teacher": "ст.викл. А.В. Гречко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-08T13:30:00",
+          "ends_at": "2026-09-08T14:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 26
+        },
+        {
+          "starts_at": "2026-09-15T13:30:00",
+          "ends_at": "2026-09-15T14:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 26
+        },
+        {
+          "starts_at": "2026-09-22T13:30:00",
+          "ends_at": "2026-09-22T14:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 26
+        },
+        {
+          "starts_at": "2026-09-29T13:30:00",
+          "ends_at": "2026-09-29T14:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 26
+        },
+        {
+          "starts_at": "2026-10-06T13:30:00",
+          "ends_at": "2026-10-06T14:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 26
+        },
+        {
+          "starts_at": "2026-10-13T13:30:00",
+          "ends_at": "2026-10-13T14:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 26
+        },
+        {
+          "starts_at": "2026-10-20T13:30:00",
+          "ends_at": "2026-10-20T14:50:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 26
+        },
+        {
+          "starts_at": "2026-10-27T13:30:00",
+          "ends_at": "2026-10-27T14:50:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 26
+        },
+        {
+          "starts_at": "2026-11-03T13:30:00",
+          "ends_at": "2026-11-03T14:50:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 26
+        },
+        {
+          "starts_at": "2026-11-10T13:30:00",
+          "ends_at": "2026-11-10T14:50:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 26
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "13:30-14:50",
+        "C": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+        "D": "3",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 27,
+      "day": "Вівторок",
+      "time": "15:00-16:20",
+      "description": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+      "group": "4",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Багатозадачне та паралельне програмування",
+      "teacher": "ст.викл. А.В. Гречко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-08T15:00:00",
+          "ends_at": "2026-09-08T16:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 27
+        },
+        {
+          "starts_at": "2026-09-15T15:00:00",
+          "ends_at": "2026-09-15T16:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 27
+        },
+        {
+          "starts_at": "2026-09-22T15:00:00",
+          "ends_at": "2026-09-22T16:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 27
+        },
+        {
+          "starts_at": "2026-09-29T15:00:00",
+          "ends_at": "2026-09-29T16:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 27
+        },
+        {
+          "starts_at": "2026-10-06T15:00:00",
+          "ends_at": "2026-10-06T16:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 27
+        },
+        {
+          "starts_at": "2026-10-13T15:00:00",
+          "ends_at": "2026-10-13T16:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 27
+        },
+        {
+          "starts_at": "2026-10-20T15:00:00",
+          "ends_at": "2026-10-20T16:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 27
+        },
+        {
+          "starts_at": "2026-10-27T15:00:00",
+          "ends_at": "2026-10-27T16:20:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 27
+        },
+        {
+          "starts_at": "2026-11-03T15:00:00",
+          "ends_at": "2026-11-03T16:20:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 27
+        },
+        {
+          "starts_at": "2026-11-10T15:00:00",
+          "ends_at": "2026-11-10T16:20:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 27
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "15:00-16:20",
+        "C": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+        "D": "4",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 28,
+      "day": "Вівторок",
+      "time": "16:30-17:50",
+      "description": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+      "group": "5",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Багатозадачне та паралельне програмування",
+      "teacher": "ст.викл. А.В. Гречко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-08T16:30:00",
+          "ends_at": "2026-09-08T17:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 28
+        },
+        {
+          "starts_at": "2026-09-15T16:30:00",
+          "ends_at": "2026-09-15T17:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 28
+        },
+        {
+          "starts_at": "2026-09-22T16:30:00",
+          "ends_at": "2026-09-22T17:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 28
+        },
+        {
+          "starts_at": "2026-09-29T16:30:00",
+          "ends_at": "2026-09-29T17:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 28
+        },
+        {
+          "starts_at": "2026-10-06T16:30:00",
+          "ends_at": "2026-10-06T17:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 28
+        },
+        {
+          "starts_at": "2026-10-13T16:30:00",
+          "ends_at": "2026-10-13T17:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 28
+        },
+        {
+          "starts_at": "2026-10-20T16:30:00",
+          "ends_at": "2026-10-20T17:50:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 28
+        },
+        {
+          "starts_at": "2026-10-27T16:30:00",
+          "ends_at": "2026-10-27T17:50:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 28
+        },
+        {
+          "starts_at": "2026-11-03T16:30:00",
+          "ends_at": "2026-11-03T17:50:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 28
+        },
+        {
+          "starts_at": "2026-11-10T16:30:00",
+          "ends_at": "2026-11-10T17:50:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 28
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "16:30-17:50",
+        "C": "Багатозадачне та паралельне програмування,ст.викл. А.В. Гречко",
+        "D": "5",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 31,
+      "day": "Середа",
+      "time": "8:30-9:50",
+      "description": "Вибрані фреймворки для iOS ст.викл.О. О.Франків",
+      "group": "лекція",
+      "weeks": "1-7",
+      "location": "1-112",
+      "extra": {},
+      "course_name": "Вибрані фреймворки для iOS",
+      "teacher": "ст.викл.О. О.Франків",
+      "lecture": true,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-02T08:30:00",
+          "ends_at": "2026-09-02T09:50:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 31
+        },
+        {
+          "starts_at": "2026-09-09T08:30:00",
+          "ends_at": "2026-09-09T09:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 31
+        },
+        {
+          "starts_at": "2026-09-16T08:30:00",
+          "ends_at": "2026-09-16T09:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 31
+        },
+        {
+          "starts_at": "2026-09-23T08:30:00",
+          "ends_at": "2026-09-23T09:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 31
+        },
+        {
+          "starts_at": "2026-09-30T08:30:00",
+          "ends_at": "2026-09-30T09:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 31
+        },
+        {
+          "starts_at": "2026-10-07T08:30:00",
+          "ends_at": "2026-10-07T09:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 31
+        },
+        {
+          "starts_at": "2026-10-14T08:30:00",
+          "ends_at": "2026-10-14T09:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 31
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "A": "Середа",
+        "B": "8:30-9:50",
+        "C": "Вибрані фреймворки для iOS ст.викл.О. О.Франків",
+        "D": "лекція",
+        "E": "1-7",
+        "F": "1-112"
+      }
+    },
+    {
+      "row": 32,
+      "day": "Середа",
+      "time": "10:00-11:20",
+      "description": "Вибрані фреймворки для iOS ст.викл.О. О.Франків",
+      "group": "1",
+      "weeks": "1-8",
+      "location": "1-307",
+      "extra": {
+        "G": "10к"
+      },
+      "course_name": "Вибрані фреймворки для iOS",
+      "teacher": "ст.викл.О. О.Франків",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-02T10:00:00",
+          "ends_at": "2026-09-02T11:20:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 32
+        },
+        {
+          "starts_at": "2026-09-09T10:00:00",
+          "ends_at": "2026-09-09T11:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 32
+        },
+        {
+          "starts_at": "2026-09-16T10:00:00",
+          "ends_at": "2026-09-16T11:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 32
+        },
+        {
+          "starts_at": "2026-09-23T10:00:00",
+          "ends_at": "2026-09-23T11:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 32
+        },
+        {
+          "starts_at": "2026-09-30T10:00:00",
+          "ends_at": "2026-09-30T11:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 32
+        },
+        {
+          "starts_at": "2026-10-07T10:00:00",
+          "ends_at": "2026-10-07T11:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 32
+        },
+        {
+          "starts_at": "2026-10-14T10:00:00",
+          "ends_at": "2026-10-14T11:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 32
+        },
+        {
+          "starts_at": "2026-10-21T10:00:00",
+          "ends_at": "2026-10-21T11:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 32
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "10:00-11:20",
+        "C": "Вибрані фреймворки для iOS ст.викл.О. О.Франків",
+        "D": "1",
+        "E": "1-8",
+        "F": "1-307",
+        "G": "10к"
+      }
+    },
+    {
+      "row": 39,
+      "day": "Четвер",
+      "time": "10:00-11:20",
+      "description": "Основи фреймворку  Скрам, доц. Палієнко",
+      "group": "лекція",
+      "weeks": "1-7",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Основи фреймворку Скрам",
+      "teacher": "доц. Палієнко",
+      "lecture": true,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-03T10:00:00",
+          "ends_at": "2026-09-03T11:20:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 39
+        },
+        {
+          "starts_at": "2026-09-10T10:00:00",
+          "ends_at": "2026-09-10T11:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 39
+        },
+        {
+          "starts_at": "2026-09-17T10:00:00",
+          "ends_at": "2026-09-17T11:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 39
+        },
+        {
+          "starts_at": "2026-09-24T10:00:00",
+          "ends_at": "2026-09-24T11:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 39
+        },
+        {
+          "starts_at": "2026-10-01T10:00:00",
+          "ends_at": "2026-10-01T11:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 39
+        },
+        {
+          "starts_at": "2026-10-08T10:00:00",
+          "ends_at": "2026-10-08T11:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 39
+        },
+        {
+          "starts_at": "2026-10-15T10:00:00",
+          "ends_at": "2026-10-15T11:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 39
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "10:00-11:20",
+        "C": "Основи фреймворку  Скрам, доц. Палієнко",
+        "D": "лекція",
+        "E": "1-7",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 40,
+      "day": "Четвер",
+      "time": "11:40-13:00",
+      "description": "Основи фреймворку  Скрам, доц. О.О. Палієнко",
+      "group": "1",
+      "weeks": "1-7",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Основи фреймворку Скрам",
+      "teacher": "доц. О.О. Палієнко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-03T11:40:00",
+          "ends_at": "2026-09-03T13:00:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 40
+        },
+        {
+          "starts_at": "2026-09-10T11:40:00",
+          "ends_at": "2026-09-10T13:00:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 40
+        },
+        {
+          "starts_at": "2026-09-17T11:40:00",
+          "ends_at": "2026-09-17T13:00:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 40
+        },
+        {
+          "starts_at": "2026-09-24T11:40:00",
+          "ends_at": "2026-09-24T13:00:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 40
+        },
+        {
+          "starts_at": "2026-10-01T11:40:00",
+          "ends_at": "2026-10-01T13:00:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 40
+        },
+        {
+          "starts_at": "2026-10-08T11:40:00",
+          "ends_at": "2026-10-08T13:00:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 40
+        },
+        {
+          "starts_at": "2026-10-15T11:40:00",
+          "ends_at": "2026-10-15T13:00:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 40
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "11:40-13:00",
+        "C": "Основи фреймворку  Скрам, доц. О.О. Палієнко",
+        "D": "1",
+        "E": "1-7",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 41,
+      "day": "Четвер",
+      "time": "13:30-14:50",
+      "description": "Основи фреймворку  Скрам, доц. О.О. Палієнко",
+      "group": "2",
+      "weeks": "1-7",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Основи фреймворку Скрам",
+      "teacher": "доц. О.О. Палієнко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-03T13:30:00",
+          "ends_at": "2026-09-03T14:50:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 41
+        },
+        {
+          "starts_at": "2026-09-10T13:30:00",
+          "ends_at": "2026-09-10T14:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 41
+        },
+        {
+          "starts_at": "2026-09-17T13:30:00",
+          "ends_at": "2026-09-17T14:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 41
+        },
+        {
+          "starts_at": "2026-09-24T13:30:00",
+          "ends_at": "2026-09-24T14:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 41
+        },
+        {
+          "starts_at": "2026-10-01T13:30:00",
+          "ends_at": "2026-10-01T14:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 41
+        },
+        {
+          "starts_at": "2026-10-08T13:30:00",
+          "ends_at": "2026-10-08T14:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 41
+        },
+        {
+          "starts_at": "2026-10-15T13:30:00",
+          "ends_at": "2026-10-15T14:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 41
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "13:30-14:50",
+        "C": "Основи фреймворку  Скрам, доц. О.О. Палієнко",
+        "D": "2",
+        "E": "1-7",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 42,
+      "day": "Четвер",
+      "time": "15:00-16:20",
+      "description": "Основи фреймворку  Скрам, доц. О.О. Палієнко",
+      "group": "3",
+      "weeks": "1-7",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Основи фреймворку Скрам",
+      "teacher": "доц. О.О. Палієнко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-03T15:00:00",
+          "ends_at": "2026-09-03T16:20:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 42
+        },
+        {
+          "starts_at": "2026-09-10T15:00:00",
+          "ends_at": "2026-09-10T16:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 42
+        },
+        {
+          "starts_at": "2026-09-17T15:00:00",
+          "ends_at": "2026-09-17T16:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 42
+        },
+        {
+          "starts_at": "2026-09-24T15:00:00",
+          "ends_at": "2026-09-24T16:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 42
+        },
+        {
+          "starts_at": "2026-10-01T15:00:00",
+          "ends_at": "2026-10-01T16:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 42
+        },
+        {
+          "starts_at": "2026-10-08T15:00:00",
+          "ends_at": "2026-10-08T16:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 42
+        },
+        {
+          "starts_at": "2026-10-15T15:00:00",
+          "ends_at": "2026-10-15T16:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 42
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "15:00-16:20",
+        "C": "Основи фреймворку  Скрам, доц. О.О. Палієнко",
+        "D": "3",
+        "E": "1-7",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 46,
+      "day": "П`ятниця",
+      "time": "10:00-11:20",
+      "description": "Проектування програмних систем, доц. А.О. Афонін",
+      "group": "лекція",
+      "weeks": "1 - 7",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Проектування програмних систем",
+      "teacher": "доц. А.О. Афонін",
+      "lecture": true,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-04T10:00:00",
+          "ends_at": "2026-09-04T11:20:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 46
+        },
+        {
+          "starts_at": "2026-09-11T10:00:00",
+          "ends_at": "2026-09-11T11:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 46
+        },
+        {
+          "starts_at": "2026-09-18T10:00:00",
+          "ends_at": "2026-09-18T11:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 46
+        },
+        {
+          "starts_at": "2026-09-25T10:00:00",
+          "ends_at": "2026-09-25T11:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 46
+        },
+        {
+          "starts_at": "2026-10-02T10:00:00",
+          "ends_at": "2026-10-02T11:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 46
+        },
+        {
+          "starts_at": "2026-10-09T10:00:00",
+          "ends_at": "2026-10-09T11:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 46
+        },
+        {
+          "starts_at": "2026-10-16T10:00:00",
+          "ends_at": "2026-10-16T11:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 46
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "A": "П`ятниця",
+        "B": "10:00-11:20",
+        "C": "Проектування програмних систем, доц. А.О. Афонін",
+        "D": "лекція",
+        "E": "1 - 7",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 52,
+      "day": "Субота",
+      "time": "8:30-9:50",
+      "description": "Об`єктно-орієнтований аналіз і дизайн програмування,доц. О.А..Бучко",
+      "group": "лекція",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Об`єктно-орієнтований аналіз і дизайн програмування",
+      "teacher": "доц. О.А..Бучко",
+      "lecture": true,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-12T08:30:00",
+          "ends_at": "2026-09-12T09:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 52
+        },
+        {
+          "starts_at": "2026-09-19T08:30:00",
+          "ends_at": "2026-09-19T09:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 52
+        },
+        {
+          "starts_at": "2026-09-26T08:30:00",
+          "ends_at": "2026-09-26T09:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 52
+        },
+        {
+          "starts_at": "2026-10-03T08:30:00",
+          "ends_at": "2026-10-03T09:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 52
+        },
+        {
+          "starts_at": "2026-10-10T08:30:00",
+          "ends_at": "2026-10-10T09:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 52
+        },
+        {
+          "starts_at": "2026-10-17T08:30:00",
+          "ends_at": "2026-10-17T09:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 52
+        },
+        {
+          "starts_at": "2026-10-24T08:30:00",
+          "ends_at": "2026-10-24T09:50:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 52
+        },
+        {
+          "starts_at": "2026-10-31T08:30:00",
+          "ends_at": "2026-10-31T09:50:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 52
+        },
+        {
+          "starts_at": "2026-11-07T08:30:00",
+          "ends_at": "2026-11-07T09:50:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 52
+        },
+        {
+          "starts_at": "2026-11-14T08:30:00",
+          "ends_at": "2026-11-14T09:50:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 52
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "A": "Субота",
+        "B": "8:30-9:50",
+        "C": "Об`єктно-орієнтований аналіз і дизайн програмування,доц. О.А..Бучко",
+        "D": "лекція",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 53,
+      "day": "Субота",
+      "time": "10:00-11:20",
+      "description": "Нейронні мережі, ст.викл..К.В.Кундік",
+      "group": "лекція",
+      "weeks": "1-10",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Нейронні мережі",
+      "teacher": "ст.викл..К.В.Кундік",
+      "lecture": true,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-05T10:00:00",
+          "ends_at": "2026-09-05T11:20:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 53
+        },
+        {
+          "starts_at": "2026-09-12T10:00:00",
+          "ends_at": "2026-09-12T11:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 53
+        },
+        {
+          "starts_at": "2026-09-19T10:00:00",
+          "ends_at": "2026-09-19T11:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 53
+        },
+        {
+          "starts_at": "2026-09-26T10:00:00",
+          "ends_at": "2026-09-26T11:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 53
+        },
+        {
+          "starts_at": "2026-10-03T10:00:00",
+          "ends_at": "2026-10-03T11:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 53
+        },
+        {
+          "starts_at": "2026-10-10T10:00:00",
+          "ends_at": "2026-10-10T11:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 53
+        },
+        {
+          "starts_at": "2026-10-17T10:00:00",
+          "ends_at": "2026-10-17T11:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 53
+        },
+        {
+          "starts_at": "2026-10-24T10:00:00",
+          "ends_at": "2026-10-24T11:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 53
+        },
+        {
+          "starts_at": "2026-10-31T10:00:00",
+          "ends_at": "2026-10-31T11:20:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 53
+        },
+        {
+          "starts_at": "2026-11-07T10:00:00",
+          "ends_at": "2026-11-07T11:20:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 53
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "10:00-11:20",
+        "C": "Нейронні мережі, ст.викл..К.В.Кундік ",
+        "D": "лекція",
+        "E": "1-10",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 54,
+      "day": "Субота",
+      "time": "10:00-11:20",
+      "description": "Об`єктно-орієнтований аналіз і дизайн програмування,ст.викл.О.М. Пєчкурова",
+      "group": "4",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Об`єктно-орієнтований аналіз і дизайн програмування",
+      "teacher": "ст.викл.О.М. Пєчкурова",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-12T10:00:00",
+          "ends_at": "2026-09-12T11:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 54
+        },
+        {
+          "starts_at": "2026-09-19T10:00:00",
+          "ends_at": "2026-09-19T11:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 54
+        },
+        {
+          "starts_at": "2026-09-26T10:00:00",
+          "ends_at": "2026-09-26T11:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 54
+        },
+        {
+          "starts_at": "2026-10-03T10:00:00",
+          "ends_at": "2026-10-03T11:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 54
+        },
+        {
+          "starts_at": "2026-10-10T10:00:00",
+          "ends_at": "2026-10-10T11:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 54
+        },
+        {
+          "starts_at": "2026-10-17T10:00:00",
+          "ends_at": "2026-10-17T11:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 54
+        },
+        {
+          "starts_at": "2026-10-24T10:00:00",
+          "ends_at": "2026-10-24T11:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 54
+        },
+        {
+          "starts_at": "2026-10-31T10:00:00",
+          "ends_at": "2026-10-31T11:20:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 54
+        },
+        {
+          "starts_at": "2026-11-07T10:00:00",
+          "ends_at": "2026-11-07T11:20:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 54
+        },
+        {
+          "starts_at": "2026-11-14T10:00:00",
+          "ends_at": "2026-11-14T11:20:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 54
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Об`єктно-орієнтований аналіз і дизайн програмування,ст.викл.О.М. Пєчкурова",
+        "D": "4",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 55,
+      "day": "Субота",
+      "time": "10:00-11:20",
+      "description": "Об`єктно-орієнтований аналіз і дизайн програмування,доц. О.А..Бучко",
+      "group": "1",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Об`єктно-орієнтований аналіз і дизайн програмування",
+      "teacher": "доц. О.А..Бучко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-12T10:00:00",
+          "ends_at": "2026-09-12T11:20:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 55
+        },
+        {
+          "starts_at": "2026-09-19T10:00:00",
+          "ends_at": "2026-09-19T11:20:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 55
+        },
+        {
+          "starts_at": "2026-09-26T10:00:00",
+          "ends_at": "2026-09-26T11:20:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 55
+        },
+        {
+          "starts_at": "2026-10-03T10:00:00",
+          "ends_at": "2026-10-03T11:20:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 55
+        },
+        {
+          "starts_at": "2026-10-10T10:00:00",
+          "ends_at": "2026-10-10T11:20:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 55
+        },
+        {
+          "starts_at": "2026-10-17T10:00:00",
+          "ends_at": "2026-10-17T11:20:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 55
+        },
+        {
+          "starts_at": "2026-10-24T10:00:00",
+          "ends_at": "2026-10-24T11:20:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 55
+        },
+        {
+          "starts_at": "2026-10-31T10:00:00",
+          "ends_at": "2026-10-31T11:20:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 55
+        },
+        {
+          "starts_at": "2026-11-07T10:00:00",
+          "ends_at": "2026-11-07T11:20:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 55
+        },
+        {
+          "starts_at": "2026-11-14T10:00:00",
+          "ends_at": "2026-11-14T11:20:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 55
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Об`єктно-орієнтований аналіз і дизайн програмування,доц. О.А..Бучко",
+        "D": "1",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 56,
+      "day": "Субота",
+      "time": "11:40-13:00",
+      "description": "Об`єктно-орієнтований аналіз і дизайн програмування,ст.викл.О.М. Пєчкурова",
+      "group": "5",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Об`єктно-орієнтований аналіз і дизайн програмування",
+      "teacher": "ст.викл.О.М. Пєчкурова",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-12T11:40:00",
+          "ends_at": "2026-09-12T13:00:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 56
+        },
+        {
+          "starts_at": "2026-09-19T11:40:00",
+          "ends_at": "2026-09-19T13:00:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 56
+        },
+        {
+          "starts_at": "2026-09-26T11:40:00",
+          "ends_at": "2026-09-26T13:00:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 56
+        },
+        {
+          "starts_at": "2026-10-03T11:40:00",
+          "ends_at": "2026-10-03T13:00:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 56
+        },
+        {
+          "starts_at": "2026-10-10T11:40:00",
+          "ends_at": "2026-10-10T13:00:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 56
+        },
+        {
+          "starts_at": "2026-10-17T11:40:00",
+          "ends_at": "2026-10-17T13:00:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 56
+        },
+        {
+          "starts_at": "2026-10-24T11:40:00",
+          "ends_at": "2026-10-24T13:00:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 56
+        },
+        {
+          "starts_at": "2026-10-31T11:40:00",
+          "ends_at": "2026-10-31T13:00:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 56
+        },
+        {
+          "starts_at": "2026-11-07T11:40:00",
+          "ends_at": "2026-11-07T13:00:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 56
+        },
+        {
+          "starts_at": "2026-11-14T11:40:00",
+          "ends_at": "2026-11-14T13:00:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 56
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "11:40-13:00",
+        "C": "Об`єктно-орієнтований аналіз і дизайн програмування,ст.викл.О.М. Пєчкурова",
+        "D": "5",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 57,
+      "day": "Субота",
+      "time": "11:40-13:00",
+      "description": "Нейронні мережі, ст.викл..К.В.Кундік",
+      "group": "1",
+      "weeks": "1-13",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Нейронні мережі",
+      "teacher": "ст.викл..К.В.Кундік",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-05T11:40:00",
+          "ends_at": "2026-09-05T13:00:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-09-12T11:40:00",
+          "ends_at": "2026-09-12T13:00:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-09-19T11:40:00",
+          "ends_at": "2026-09-19T13:00:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-09-26T11:40:00",
+          "ends_at": "2026-09-26T13:00:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-10-03T11:40:00",
+          "ends_at": "2026-10-03T13:00:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-10-10T11:40:00",
+          "ends_at": "2026-10-10T13:00:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-10-17T11:40:00",
+          "ends_at": "2026-10-17T13:00:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-10-24T11:40:00",
+          "ends_at": "2026-10-24T13:00:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-10-31T11:40:00",
+          "ends_at": "2026-10-31T13:00:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-11-07T11:40:00",
+          "ends_at": "2026-11-07T13:00:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-11-14T11:40:00",
+          "ends_at": "2026-11-14T13:00:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-11-21T11:40:00",
+          "ends_at": "2026-11-21T13:00:00",
+          "week": 12,
+          "origin": "academic_week",
+          "source_row": 57
+        },
+        {
+          "starts_at": "2026-11-28T11:40:00",
+          "ends_at": "2026-11-28T13:00:00",
+          "week": 13,
+          "origin": "academic_week",
+          "source_row": 57
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Нейронні мережі, ст.викл..К.В.Кундік ",
+        "D": "1",
+        "E": "1-13",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 58,
+      "day": "Субота",
+      "time": "11:40-13:00",
+      "description": "Об`єктно-орієнтований аналіз і дизайн програмування,доц. О.А..Бучко",
+      "group": "2",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Об`єктно-орієнтований аналіз і дизайн програмування",
+      "teacher": "доц. О.А..Бучко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-12T11:40:00",
+          "ends_at": "2026-09-12T13:00:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 58
+        },
+        {
+          "starts_at": "2026-09-19T11:40:00",
+          "ends_at": "2026-09-19T13:00:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 58
+        },
+        {
+          "starts_at": "2026-09-26T11:40:00",
+          "ends_at": "2026-09-26T13:00:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 58
+        },
+        {
+          "starts_at": "2026-10-03T11:40:00",
+          "ends_at": "2026-10-03T13:00:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 58
+        },
+        {
+          "starts_at": "2026-10-10T11:40:00",
+          "ends_at": "2026-10-10T13:00:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 58
+        },
+        {
+          "starts_at": "2026-10-17T11:40:00",
+          "ends_at": "2026-10-17T13:00:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 58
+        },
+        {
+          "starts_at": "2026-10-24T11:40:00",
+          "ends_at": "2026-10-24T13:00:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 58
+        },
+        {
+          "starts_at": "2026-10-31T11:40:00",
+          "ends_at": "2026-10-31T13:00:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 58
+        },
+        {
+          "starts_at": "2026-11-07T11:40:00",
+          "ends_at": "2026-11-07T13:00:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 58
+        },
+        {
+          "starts_at": "2026-11-14T11:40:00",
+          "ends_at": "2026-11-14T13:00:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 58
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Об`єктно-орієнтований аналіз і дизайн програмування,доц. О.А..Бучко",
+        "D": "2",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 59,
+      "day": "Субота",
+      "time": "13:30-14:50",
+      "description": "Нейронні мережі, ст.викл..К.В.Кундік",
+      "group": "2",
+      "weeks": "1-13",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Нейронні мережі",
+      "teacher": "ст.викл..К.В.Кундік",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-05T13:30:00",
+          "ends_at": "2026-09-05T14:50:00",
+          "week": 1,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-09-12T13:30:00",
+          "ends_at": "2026-09-12T14:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-09-19T13:30:00",
+          "ends_at": "2026-09-19T14:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-09-26T13:30:00",
+          "ends_at": "2026-09-26T14:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-10-03T13:30:00",
+          "ends_at": "2026-10-03T14:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-10-10T13:30:00",
+          "ends_at": "2026-10-10T14:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-10-17T13:30:00",
+          "ends_at": "2026-10-17T14:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-10-24T13:30:00",
+          "ends_at": "2026-10-24T14:50:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-10-31T13:30:00",
+          "ends_at": "2026-10-31T14:50:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-11-07T13:30:00",
+          "ends_at": "2026-11-07T14:50:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-11-14T13:30:00",
+          "ends_at": "2026-11-14T14:50:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-11-21T13:30:00",
+          "ends_at": "2026-11-21T14:50:00",
+          "week": 12,
+          "origin": "academic_week",
+          "source_row": 59
+        },
+        {
+          "starts_at": "2026-11-28T13:30:00",
+          "ends_at": "2026-11-28T14:50:00",
+          "week": 13,
+          "origin": "academic_week",
+          "source_row": 59
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "B": "13:30-14:50",
+        "C": "Нейронні мережі, ст.викл..К.В.Кундік ",
+        "D": "2",
+        "E": "1-13",
+        "F": "Дистанційно"
+      }
+    },
+    {
+      "row": 60,
+      "day": "Субота",
+      "time": "13:30-14:50",
+      "description": "Об`єктно-орієнтований аналіз і дизайн програмування,доц. О.А..Бучко",
+      "group": "3",
+      "weeks": "2-11",
+      "location": "Дистанційно",
+      "extra": {},
+      "course_name": "Об`єктно-орієнтований аналіз і дизайн програмування",
+      "teacher": "доц. О.А..Бучко",
+      "lecture": false,
+      "occurrences": [
+        {
+          "starts_at": "2026-09-12T13:30:00",
+          "ends_at": "2026-09-12T14:50:00",
+          "week": 2,
+          "origin": "academic_week",
+          "source_row": 60
+        },
+        {
+          "starts_at": "2026-09-19T13:30:00",
+          "ends_at": "2026-09-19T14:50:00",
+          "week": 3,
+          "origin": "academic_week",
+          "source_row": 60
+        },
+        {
+          "starts_at": "2026-09-26T13:30:00",
+          "ends_at": "2026-09-26T14:50:00",
+          "week": 4,
+          "origin": "academic_week",
+          "source_row": 60
+        },
+        {
+          "starts_at": "2026-10-03T13:30:00",
+          "ends_at": "2026-10-03T14:50:00",
+          "week": 5,
+          "origin": "academic_week",
+          "source_row": 60
+        },
+        {
+          "starts_at": "2026-10-10T13:30:00",
+          "ends_at": "2026-10-10T14:50:00",
+          "week": 6,
+          "origin": "academic_week",
+          "source_row": 60
+        },
+        {
+          "starts_at": "2026-10-17T13:30:00",
+          "ends_at": "2026-10-17T14:50:00",
+          "week": 7,
+          "origin": "academic_week",
+          "source_row": 60
+        },
+        {
+          "starts_at": "2026-10-24T13:30:00",
+          "ends_at": "2026-10-24T14:50:00",
+          "week": 8,
+          "origin": "academic_week",
+          "source_row": 60
+        },
+        {
+          "starts_at": "2026-10-31T13:30:00",
+          "ends_at": "2026-10-31T14:50:00",
+          "week": 9,
+          "origin": "academic_week",
+          "source_row": 60
+        },
+        {
+          "starts_at": "2026-11-07T13:30:00",
+          "ends_at": "2026-11-07T14:50:00",
+          "week": 10,
+          "origin": "academic_week",
+          "source_row": 60
+        },
+        {
+          "starts_at": "2026-11-14T13:30:00",
+          "ends_at": "2026-11-14T14:50:00",
+          "week": 11,
+          "origin": "academic_week",
+          "source_row": 60
+        }
+      ],
+      "unresolved": false,
+      "raw_cells": {
+        "C": "Об`єктно-орієнтований аналіз і дизайн програмування,доц. О.А..Бучко",
+        "D": "3",
+        "E": "2-11",
+        "F": "Дистанційно"
+      }
+    }
+  ],
+  "issues": []
+}
