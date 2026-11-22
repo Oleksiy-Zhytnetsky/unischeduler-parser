@@ -11,11 +11,24 @@ from .models import ScheduleDocument, ScheduleEntry, ScheduleMetadata, Occurrenc
 TIME_RE = re.compile(r"^\s*(\d{1,2}):(\d{2})\s*[-–—−]\s*(\d{1,2}):(\d{2})\s*$")
 WEEKS_RE = re.compile(r"^\s*\d{1,2}(?:\s*[-–—−]\s*\d{1,2}|(?:\s*[,;]\s*\d{1,2})*)\s*$")
 DATE_RE = re.compile(r"^\s*(\d{1,2})\.(\d{1,2})(?:\.(\d{2,4}))?\.?\s*$")
+
+ACADEMIC_TITLES = (
+    r"(?:"
+    r"проф\.?|"
+    r"доц\.?|"
+    r"ст\.?\s*викл\.?|"
+    r"[сc][тn][сn]\.?\s*викл\.?|"
+    r"ас\.?"
+    r")"
+)
 TEACHER_RE = re.compile(
-    r"(?:\s*,\s*|\s+)(?=(?:доц\.?|ст\.?\s*викл\.?|[сc][тn]\.?\s*викл\.?|ас\.?)(?:\s|\.|[А-ЯІЇЄҐ]|$))",
+    rf"(?:\s*,\s*|\s+)(?={ACADEMIC_TITLES}(?:\s|\.|[А-ЯІЇЄҐ]|$))",
     re.IGNORECASE,
 )
-TITLE_RE = re.compile(r"^(?:доц\.?|ст\.?\s*викл\.?|[сc][тn]\.?\s*викл\.?|ас\.?)", re.IGNORECASE)
+TITLE_RE = re.compile(
+    rf"^{ACADEMIC_TITLES}",
+    re.IGNORECASE,
+)
 
 
 def _canonical(s: str) -> str:
